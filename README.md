@@ -8,6 +8,8 @@ To install the required dependencies, run the following command:
 
 ```bash
 npm install
+
+npm install express
 ```
 This will install the necessary packages specified in the package.json file.
 
